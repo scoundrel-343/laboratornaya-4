@@ -15,5 +15,6 @@
 # Инструкция по работе
 Программа получает на ввод число от 1 до 100000 и выводит словами введенную сумму с названием валюты (рубли).
 
-![image](https://github.com/scoundrel-343/laboratornaya-4/assets/146209505/cc1b28de-29ad-4d6f-ae78-46811c9ba88e)
+![image](https://github.com/scoundrel-343/laboratornaya-4/assets/146209505/10eb7124-67f0-44f5-a0ff-da2a654cd29d)
+
 
